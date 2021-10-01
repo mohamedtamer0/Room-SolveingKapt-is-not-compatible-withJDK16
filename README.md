@@ -74,7 +74,7 @@ task clean(type: Delete) {
     
 ```
 
--gradle.properties
+- gradle.properties
 
 ```gradle
 
